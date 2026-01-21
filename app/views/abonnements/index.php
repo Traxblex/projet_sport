@@ -2,13 +2,13 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-6">
-                <h1 class="display-1 fw-bold">Bienvenue <br> chez Fitsport</h1>
+                <h1 class="display-1 fw-bold">NOS ABONNEMENTS<br>SONT </h1>
                 <p class="display-4 fw-bold text-danger">Votre club de sport préféré pour rester en forme et en bonne santé.</p>
             </div>
         </div>
     </div>
     <div>
-        <img src="/app/img/fitness_image.png" alt="Fitness Image">
+        <img src="../app/img/fitness_image.png" alt="Fitness Image">
     </div>
 </section>
 <div class="container mt-5">
@@ -29,7 +29,7 @@
                                 <strong>Prix :</strong>
                                 <?= htmlspecialchars($abonnement['prix'], ENT_QUOTES, 'UTF-8') ?>
                             </p>
-                            <a href="#" class="btn btn-primary">Souscrire</a>
+                            <a href="#" class="btn btn-primary"></a>
                         </div>
                     </div>
                 </div>

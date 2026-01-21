@@ -1,8 +1,10 @@
     <footer class="bg-dark text-white py-5 mt-5">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-4 mb-4">
-                    <h5 class="mb-3" style="font-family: 'Anton', sans-serif; color: #DC3545;">FITSPORT</h5>
+                <div class="col-md-4 mb-4"> <a class="navbar-brand" href="index.php">
+            <h5 class="mb-3" style="font-family: 'Anton', sans-serif; color: #DC3545;"><img src="../app/img/logo_fitsport.png" alt="Logo" width="30" height="24"
+                 class="d-inline-block align-text-top"> FITSPORT</h5>
+        </a>
                     <p>Votre club de sport préféré pour rester en forme et en bonne santé.</p>
                     <div>
                         <a href="#" class="text-white me-3"><i class="fab fa-facebook"></i></a>

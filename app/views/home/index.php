@@ -1,4 +1,4 @@
-<section class="container-fluid" style="background-image: url('/app/img/fitness_image.png'); background-size: cover; background-position: center; height: 100vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0;">
+<section class="container-fluid" style="background-image: url('../app/img/fitness_image.png'); background-size: cover; background-position: center; height: 100vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0;">
     <div style="z-index: 10;">
         <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7); font-family: 'Anton', sans-serif; font-size: 7rem;">
             Bienvenue chez Fitsport
@@ -10,7 +10,7 @@
 
         <div class="row g-4" style="margin-top: 100px;">
             <div class="col-md-4">
-                <div class="promo-card" style="background-image: url('/app/img/musculation.png');">
+                <div class="promo-card" style="background-image: url('../app/img/musculation.png');">
                     <div class="promo-content">
                         <p class="promo-title">4 SEMAINES + FRAIS D'ADHÉSION</p>
                         <p class="promo-highlight" style="color: #DC3545;">OFFERTS</p>
@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="promo-card" style="background-image: url('/app/img/sport.png');">
+                <div class="promo-card" style="background-image: url('../app/img/sport.png');">
                     <a href="index.php?controller=abonnement&action=index" class="text-decoration-none">
                         <div class="promo-content">
                             <p class="promo-title" style="color: #ffffffff;">-30% SUR LES ABONNEMENTS</p>
@@ -30,7 +30,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="promo-card" style="background-image: url('/app/img/coach.png');">
+                <div class="promo-card" style="background-image: url('../app/img/coach.png');">
                     <div class="promo-content">
                         <p class="promo-title">PREMIÈRE SÉANCE</p>
                         <p class="promo-highlight" style="color: #DC3545;">GRATUITE</p>
@@ -50,7 +50,7 @@
         </p>
         <div class="promo-scroll-container">
             <div class="promo-card-wrapper">
-                <div class="promo-card" style="background-image: url('/app/img/musculation.png');">
+                <div class="promo-card" style="background-image: url('../app/img/musculation.png');">
                     <div class="promo-content">
                         <p class="promo-title">accès illimité</p>
                         <p class="promo-highlight" style="color: #DC3545;">MUSCULATION</p>
@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="promo-card-wrapper">
-                <div class="promo-card" style="background-image: url('/app/img/yoga.png');">
+                <div class="promo-card" style="background-image: url('../app/img/yoga.png');">
                     <div class="promo-content">
                         <p class="promo-title">accès illimité</p>
                         <p class="promo-highlight" style="color: #DC3545;">YOGA</p>
@@ -74,7 +74,7 @@
                 </div>
             </div>
             <div class="promo-card-wrapper">
-                <div class="promo-card" style="background-image: url('/app/img/boxe.png');">
+                <div class="promo-card" style="background-image: url('../app/img/boxe.png');">
                     <div class="promo-content">
                         <p class="promo-title">Lundi , Mardi & Vendredi</p>
                         <p class="promo-highlight" style="color: #DC3545;">BOXE</p>
@@ -86,7 +86,7 @@
                 </div>
             </div>
             <div class="promo-card-wrapper">
-                <div class="promo-card" style="background-image: url('/app/img/lute.png');">
+                <div class="promo-card" style="background-image: url('../app/img/lute.png');">
                     <div class="promo-content">
                         <p class="promo-title">Mercredi, Jeudi & Samedi</p>
                         <p class="promo-highlight" style="color: #DC3545;">LUTE</p>
@@ -98,7 +98,7 @@
                 </div>
             </div>
             <div class="promo-card-wrapper">
-                <div class="promo-card" style="background-image: url('/app/img/mma.png');">
+                <div class="promo-card" style="background-image: url('../app/img/mma.png');">
                     <div class="promo-content">
                         <p class="promo-title">Lundi, Mardi & Vendredi</p>
                         <p class="promo-highlight" style="color: #DC3545;">MMA</p>
